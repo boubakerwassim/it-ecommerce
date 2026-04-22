@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: it-ecommerce
+  profiles:
+    active: dev
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: info
+
